@@ -1,0 +1,15 @@
+{"id": "d1", "text": "Predictive maintenance uses vibration and temperature sensor data to forecast machine failures before they happen."}
+{"id": "d2", "text": "Anomaly detection with PCA and FFT flags unusual spindle vibration patterns in CNC machines."}
+{"id": "d3", "text": "The conveyor belt is stopped automatically when the camera detects a foreign object intrusion."}
+{"id": "d4", "text": "RT-DETR is a real-time transformer object detector used for visual inspection on production lines."}
+{"id": "d5", "text": "Retrieval-augmented generation grounds large language model answers in retrieved documents."}
+{"id": "d6", "text": "Vector databases such as Qdrant and ChromaDB store embeddings for approximate nearest neighbour search."}
+{"id": "d7", "text": "BM25 is a lexical ranking function that scores documents by term frequency and inverse document frequency."}
+{"id": "d8", "text": "Reciprocal rank fusion combines several ranked lists without needing to calibrate their scores."}
+{"id": "d9", "text": "Process mining reconstructs business workflows from event logs to find bottlenecks and rework loops."}
+{"id": "d10", "text": "Object-centric event logs (OCEL) track how orders, items and invoices interact within one process."}
+{"id": "d11", "text": "Error code E-4711 means the hydraulic pressure sensor on press 3 has lost calibration."}
+{"id": "d12", "text": "Databricks pipelines replaced legacy SSRS reports and cut dashboard refresh time."}
+{"id": "d13", "text": "MLflow tracks experiments, parameters and metrics so trained models can be reproduced."}
+{"id": "d14", "text": "Knowledge graphs in Neo4j link entities so an agent can follow relationships between machines and incidents."}
+{"id": "d15", "text": "Kubernetes deploys containerised model services and restarts them when health checks fail."}

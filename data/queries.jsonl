@@ -1,0 +1,12 @@
+{"query": "forecast equipment breakdowns from sensor readings", "relevant": ["d1"]}
+{"query": "spindle vibration anomalies", "relevant": ["d2"]}
+{"query": "stop belt when camera sees an object", "relevant": ["d3"]}
+{"query": "transformer detector for inspection", "relevant": ["d4"]}
+{"query": "ground LLM answers in documents", "relevant": ["d5"]}
+{"query": "where are embeddings stored for similarity search", "relevant": ["d6"]}
+{"query": "term frequency lexical ranking", "relevant": ["d7"]}
+{"query": "merge rankings from multiple retrievers", "relevant": ["d8"]}
+{"query": "find bottlenecks in workflows using event logs", "relevant": ["d9", "d10"]}
+{"query": "E-4711", "relevant": ["d11"]}
+{"query": "experiment tracking and reproducible models", "relevant": ["d13"]}
+{"query": "graph of machines and incidents for agents", "relevant": ["d14"]}
