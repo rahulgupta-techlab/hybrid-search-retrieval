@@ -63,4 +63,4 @@ context = [doc_id for doc_id, _ in retriever.search("why did press 3 stop?", top
 
 ## License
 
-MIT
+Copyright (c) 2026 Rahul Gupta. All rights reserved. Published for viewing and evaluation only; copying or reuse requires written permission. See [LICENSE](LICENSE).
